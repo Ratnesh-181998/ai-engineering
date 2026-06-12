@@ -1089,15 +1089,6 @@ HEAD/GET).
 ░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒
 ```
 
-## Contributing
-
-| Goal | Read |
-|---|---|
-
-| Track progress | [ROADMAP.md](ROADMAP.md) |
-
-
-
 Before submitting a lesson, run the invariant check:
 
 ```bash
