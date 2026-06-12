@@ -1093,10 +1093,9 @@ HEAD/GET).
 
 | Goal | Read |
 |---|---|
-| Fork for your team or school | [FORKING.md](FORKING.md) |
-| Lesson template | [LESSON_TEMPLATE.md](LESSON_TEMPLATE.md) |
+
 | Track progress | [ROADMAP.md](ROADMAP.md) |
-| Glossary | [glossary/terms.md](glossary/terms.md) |
+
 
 
 Before submitting a lesson, run the invariant check:
