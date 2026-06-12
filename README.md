@@ -10,7 +10,6 @@
   <a href="https://aiengineeringfromscratch.com"><img src="https://img.shields.io/badge/web-aiengineeringfromscratch.com-3553ff?style=flat-square&labelColor=fafaf5" alt="Website"></a>
 </p>
 
-## From the creator of [Agent Memory - #1 Persistent memory ⭐](https://github.com/rohitg00/agentmemory) <a href="https://github.com/rohitg00/agentmemory/stargazers"><img src="https://img.shields.io/github/stars/rohitg00/agentmemory?style=flat-square&labelColor=fafaf5&color=3553ff" alt="GitHub stars"></a> which naturally works with any agents or chat assistants.
 
 ```
 ░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒
@@ -112,13 +111,7 @@ flowchart LR
 
 ## Getting started
 
-Three ways in. Pick one.
-
-**Option A — read.** Open any completed lesson on
-[aiengineeringfromscratch.com](https://aiengineeringfromscratch.com) or expand a phase under
-[Contents](#contents). No setup, no cloning.
-
-**Option B — clone and run.**
+**clone and run.**
 
 ```bash
 git clone https://github.com/rohitg00/ai-engineering-from-scratch.git
@@ -126,7 +119,7 @@ cd ai-engineering-from-scratch
 python phases/01-math-foundations/01-linear-algebra-intuition/code/vectors.py
 ```
 
-**Option C — find your level *(recommended)*.** Skip ahead intelligently. Inside Claude, Cursor, Codex, OpenClaw, Hermes, or any agent with the curriculum skills installed:
+**Option  — find your level *(recommended)*.** Skip ahead intelligently. Inside Claude, Cursor, Codex, OpenClaw, Hermes, or any agent with the curriculum skills installed:
 
 ```bash
 /find-your-level
@@ -1135,59 +1128,6 @@ python3 scripts/audit_lessons.py --phase 14  # single phase
 python3 scripts/audit_lessons.py --json    # CI-friendly output
 ```
 
-Exit code is non-zero when any rule fails. Rules (L001–L010) validate directory
-shape, `docs/en.md` presence + H1, `code/` non-emptiness, `quiz.json` schema
-(rejects the legacy `q/choices/answer` keys that caused issue #102), and
-relative links inside lesson docs.
 
-```
-░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒
-```
 
-## Sponsor the work
 
-Free, MIT-licensed, 503 lessons. The curriculum is maintained on sponsorship alone. Cash only.
-
-**Reach (verified 2026-05-14):** 55,593 monthly visitors · 90,709 page views · 7.5K stars ·
-Twitter/X is the #1 acquisition channel.
-
-**Current sponsors:** [CodeRabbit](https://coderabbit.link/rohit-ghumare) · [iii](https://iii.dev?utm_source=ai-engineering-from-scratch&utm_medium=readme&utm_campaign=sponsor)
-
-| Tier | $/mo | What you get |
-|------|------|---|
-| Backer | $25 | Name in BACKERS.md |
-| Bronze | $250 | Text-only row in README sponsor block + launch-day tweet |
-| Silver | $750 | Small logo in README + listed as one supported provider in API lessons |
-| Gold | $2,000 | Medium logo in README + sponsor page + quarterly X / LinkedIn co-feature |
-| Platinum | $5,000 | Hero logo above the fold + one dedicated integration lesson, max 1 partner |
-
-Full rate card, hard rules, pricing anchors, and reach data: [SPONSORS.md](SPONSORS.md).
-Sign up via [GitHub Sponsors](https://github.com/sponsors/rohitg00).
-
-```
-░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒
-```
-
-## Star history
-
-<a href="https://star-history.com/#rohitg00/ai-engineering-from-scratch&Date">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=rohitg00/ai-engineering-from-scratch&type=Date&theme=dark">
-    <img alt="Star history" src="https://api.star-history.com/svg?repos=rohitg00/ai-engineering-from-scratch&type=Date" width="100%">
-  </picture>
-</a>
-
-If this manual helped you, star the repo. It keeps the project alive.
-
-## License
-
-MIT. Use it however you want — fork it, teach it, sell it, ship it. Attribution appreciated,
-not required.
-
-Maintained by [Rohit Ghumare](https://github.com/rohitg00) and the community.
-
-<sub>
-  <a href="https://x.com/ghumare64">@ghumare64</a> &nbsp;·&nbsp;
-  <a href="https://aiengineeringfromscratch.com">aiengineeringfromscratch.com</a> &nbsp;·&nbsp;
-  <a href="https://github.com/rohitg00/ai-engineering-from-scratch/issues/new/choose">Report / Suggest</a>
-</sub>
