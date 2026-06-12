@@ -101,7 +101,7 @@ flowchart LR
 **clone and run.**
 
 ```bash
-git clone https://github.com/rohitg00/ai-engineering.git
+git clone https://github.com/Ratnesh-181998/ai-engineering/.git
 cd ai-engineering
 python phases/01-math-foundations/01-linear-algebra-intuition/code/vectors.py
 ```
