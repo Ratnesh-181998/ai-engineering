@@ -938,9 +938,9 @@ The repo ships 388 skills and 99 prompts under `phases/**/outputs/`.
 detects your agent's skills directory automatically:
 
 ```bash
-npx skills add rohitg00/ai-engineering-from-scratch                       # every skill
-npx skills add rohitg00/ai-engineering-from-scratch --skill agent-loop    # one skill
-npx skills add rohitg00/ai-engineering-from-scratch --phase 14            # one phase
+npx skills add Ratnesh-181998/ai-engineering                # every skill
+npx skills add Ratnesh-181998/ai-engineering --skill agent-loop    # one skill
+npx skills add Ratnesh-181998/ai-engineering --phase 14            # one phase
 ```
 
 `skills` writes to whichever directory your agent picks up: `.claude/skills/`,
